@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/julianasandes/AC1-3TRI) 
   
-![Projeto Copa do Mundo](assets/images/projeto.jpg)
+![Projeto Copa do Mundo](docs/assets/images/projeto.jpg)
 
 # ⚽ AC1-3TRI
 
@@ -20,7 +20,7 @@ Clique aqui para acessar **toda a visualização do Briefing** de nosso projeto:
 
 Clique aqui para acessar **toda a visualização da Documentação** de nosso projeto: [Documentação](https://www.canva.com/design/DAFMHKiSZ-Q/0dAA72BJhXmgBNG0WO7_4A/view?utm_content=DAFMHKiSZ-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈
 
-![Documentacao Projeto Copa do Mundo](assets/images/documentacao.jpg)
+![Documentacao Projeto Copa do Mundo](docs/assets/images/documentacao.jpg)
 
 ## 👥 Autores
 - Ana Luiza Cavalcante de Menezes rm:13922 
