@@ -18,7 +18,8 @@ Clique aqui para acessar **toda a visualização do Briefing** de nosso projeto:
 
 ## 📃 Documentação
 
-Clique aqui para acessar **toda a visualização da Documentação** de nosso projeto: [Documentação](https://www.canva.com/design/DAFMHKiSZ-Q/0dAA72BJhXmgBNG0WO7_4A/view?utm_content=DAFMHKiSZ-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈
+Clique aqui para acessar **toda a visualização da Documentação** de nosso projeto: [Documentação](https://www.canva.com/design/DAFMHKiSZ-Q/0dAA72BJhXmgBNG0WO7_4A/view?utm_content=DAFMHKiSZ-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈 <br>
+(Documentação em andamento, possíveis mudanças podem ocorrer conforme o desenvolvimento do projeto)
 
 ![Documentacao Projeto Copa do Mundo](docs/assets/images/documentacao.jpg)
 
