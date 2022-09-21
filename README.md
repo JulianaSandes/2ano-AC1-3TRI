@@ -2,6 +2,14 @@
   
 ![Projeto Copa do Mundo](docs/assets/images/projeto.jpg)
 
+## 👥 Autores
+- Ana Luiza Cavalcante de Menezes rm:13922 
+- Felipe Chiozzotto rm:12030
+- `Juliana Barbosa Sandes rm:12350` 
+- Kawuan Americo Mizael da Silva rm:14695
+- Tarik Omar Mazloum rm:14661
+- Thiago Baptista da Silva Soares rm:12264
+
 # ⚽ AC1-3TRI
 
 * **Nosso site:** <br>
@@ -22,11 +30,3 @@ Clique aqui para acessar **toda a visualização da Documentação** de nosso pr
 (Documentação em andamento, possíveis mudanças podem ocorrer conforme o desenvolvimento do projeto)
 
 ![Documentacao Projeto Copa do Mundo](docs/assets/images/documentacao.jpg)
-
-## 👥 Autores
-- Ana Luiza Cavalcante de Menezes rm:13922 
-- Felipe Chiozzotto rm:12030
-- `Juliana Barbosa Sandes rm:12350` 
-- Kawuan Americo Mizael da Silva rm:14695
-- Tarik Omar Mazloum rm:14661
-- Thiago Baptista da Silva Soares rm:12264
