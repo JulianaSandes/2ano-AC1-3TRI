@@ -2,7 +2,7 @@
   
 ![Projeto Copa do Mundo](docs/assets/images/projeto.jpg)
 
-## 👥 Autores
+### 👥 Autores
 - Ana Luiza Cavalcante de Menezes rm:13922 
 - Felipe Chiozzotto rm:12030
 - `Juliana Barbosa Sandes rm:12350` 
