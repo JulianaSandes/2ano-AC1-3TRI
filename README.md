@@ -30,5 +30,3 @@ Clique aqui para acessar **toda a visualização da Documentação** de nosso pr
 (Documentação em andamento, possíveis mudanças podem ocorrer conforme o desenvolvimento do projeto)
 
 ![Documentacao Projeto Copa do Mundo](docs/assets/images/documentacao.jpg)
-
-## 🎨 Wireframe
