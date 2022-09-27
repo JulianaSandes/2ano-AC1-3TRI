@@ -10,7 +10,7 @@
 - Tarik Omar Mazloum rm:14661
 - Thiago Baptista da Silva Soares rm:12264
 
-# ⚽ AC1-3TRI
+# ⚽ AC1-3TRI - PORTALCOPA 
 
 * **Nosso site:** <br>
 O site é do tipo informativo. Ajudaremos com curiosidades sobre o país sede, como, lugares para refeição, hospedagem e diversão. Também mostraremos atletas que participarão da competição. 
