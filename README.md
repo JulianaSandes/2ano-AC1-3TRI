@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/julianasandes/AC1-3TRI) 
+![GitHub](https://img.shields.io/github/license/julianasandes/AC1-3TRI?style=for-the-badge)
   
 ![Projeto Copa do Mundo](docs/assets/images/projeto.jpg)
 
