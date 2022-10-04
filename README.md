@@ -31,4 +31,3 @@ Clique aqui para acessar **toda a visualização da Documentação** de nosso pr
 
 ![Documentacao Projeto Copa do Mundo](docs/assets/images/documentacao.jpg)
  
-Aoba
