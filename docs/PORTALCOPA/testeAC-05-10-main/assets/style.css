@@ -1,0 +1,192 @@
+body, html{
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    color: warning;
+}
+
+.catar{
+    margin-bottom: 50px;
+    text-align: start;
+    color: #59091C;
+    margin-top: 50px;
+}
+
+.dois{
+    margin-top: 40px;
+}
+
+/* Layout */
+.flexFooter {
+    display: flex;
+    flex-direction: column-reverse;    
+}
+
+.contagem{
+    margin-top: 5px;
+}
+
+/*tamanho dos textos*/
+
+.tam-m{
+    font-size: 15px;
+}
+.tam-p{
+    font-size: 10px;
+}
+.tam-g{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.card-title{
+    font-size: 30px;
+}
+
+.card-text{
+    text-align: left;
+}
+
+.card h-100{
+   border-radius: 5px;
+}
+
+.card-img-top-catar{
+    width: auto;
+    height: 255px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.card-img-top-noticias{
+    width: auto;
+    height: 425px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.dohaskyline{
+    background: url(imagens/dohaskyline.jpg);
+    height: 20vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.separador{
+    color: #59091C;
+    display: block;
+    text-align: center;
+    align-items: flex-end;
+
+}
+.linha{
+    border: 1px solid #59091C;
+}
+/** Banner **/
+
+main{
+    background-color:#EEE5D9;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body{
+    background-color: #EEE5D9;
+}
+
+.topico{
+    background-color: #59091C;
+    color:  #fff;
+    height: 30vh;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    background-size: cover;
+    background-attachment: center;
+    text-align: center;
+
+}
+
+.topico2{
+    background-color: #59091C;
+    color:  #fff;
+    height: 15vh;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    background-size: cover;
+    background-attachment: center;
+    text-align: center;
+}
+
+.destaque {
+    background-color: #EEE5D9;
+    height: 50vh;
+    background-size: cover;
+    background-attachment: center;
+    text-align: left;
+}
+
+
+.conteudo{
+    background-color: #EEE5D9;
+    height: 50vh;
+    background-size: cover;
+    background-attachment: center;
+    text-align: center;
+}
+
+/* Rodapé */
+
+h1{
+align-items: center;
+text-align: center;
+}
+
+div{  
+    align-items: left;
+    text-align: right;
+}
+
+footer {
+    padding: 100px 50px;
+    background-color: #59091C;
+    color: #EEE5D9;
+    text-align: center;
+
+}
+
+h5{
+    color: #59091C;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: left;
+    align-items: start;
+
+}
+
+#rodape{
+    margin-bottom: 25px;
+    text-align: right;
+
+}
+
+/* Smartphone Landscape */ 
+@media (min-width: 576px) {
+
+    /*Banner*/
+    main{
+        height: 100vh;
+    }
+
+    /* Rodapé */
+    .flexFooter{
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    #rodape{
+        margin: 0;
+        align-items: flex-end;
+    }
+}
+
