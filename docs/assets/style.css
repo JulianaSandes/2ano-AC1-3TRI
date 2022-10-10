@@ -1,0 +1,307 @@
+body,
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+navbar navbar-expand-lg a {
+    justify-content: initial;
+}
+
+.numero {
+    text-align: center;
+    font-size: xx-large;
+    color: #EEE5D9;
+}
+
+.letra {
+    text-align: center;
+    font-size: xx-large;
+    color: #EEE5D9;
+}
+
+.container-fluid {
+    margin-top: 100px;
+}
+
+.catar {
+    margin-bottom: 50px;
+    text-align: start;
+    color: #59091C;
+    margin-top: 50px;
+}
+
+.dois {
+    margin-top: 40px;
+}
+
+/* Layout */
+.flexFooter {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.contagem {
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+/*tamanho dos textos*/
+
+.tam-m {
+    font-size: 18px;
+}
+
+.tam-p {
+    font-size: 12px;
+}
+
+.tam-g {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.card-title {
+    font-size: 30px;
+}
+
+.card-text {
+    text-align: left;
+}
+
+.card h-100 {
+    border-radius: 5px;
+}
+
+.card-img-top-catar {
+    width: auto;
+    height: 255px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.card-img-top-noticias {
+    width: auto;
+    height: 340px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.dohaskyline {
+    background: url(imagens/dohaskyline.jpg);
+    height: 20vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.separador {
+    color: #59091C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linha {
+    width: 500px;
+}
+
+/** Banner **/
+
+main {
+    background-color: #EEE5D9;
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    background-color: #EEE5D9;
+}
+
+.topico {
+    background-color: #59091C;
+    color: #fff;
+    height: 200px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.topico2 {
+    background-color: #59091C;
+    color: #fff;
+    height: 150px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.destaque {
+    background-color: #EEE5D9;
+    height: 50vh;
+    background-size: cover;
+    text-align: left;
+}
+
+.noticia {
+    margin-bottom: 250px;
+}
+
+.conteudo {
+    background-color: #EEE5D9;
+    height: 50vh;
+    background-size: cover;
+    text-align: center;
+}
+
+/* Rodapé */
+
+h1 {
+    align-items: center;
+    text-align: center;
+}
+
+div {
+    justify-content: initial;
+    text-align: right;
+}
+
+footer {
+    padding: 100px 50px;
+    background-color: #59091C;
+    color: #EEE5D9;
+    text-align: center;
+
+}
+
+h2 {
+    color: #59091C;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: left;
+    align-items: start;
+
+}
+
+h3 {
+    color: #EEE5D9;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: left;
+    align-items: start;
+}
+
+.partidas {
+    color: #59091C;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: left;
+    align-items: start;
+}
+
+.partidasli {
+    font-size: 18px;
+}
+
+.noticias{
+    background-color: #59091C;
+    color: #EEE5D9;
+    text-align: left;
+}
+
+#rodape {
+    margin-bottom: 25px;
+    text-align: right;
+
+}
+
+.portalcopa{
+    color: #EEE5D9;
+    font-size: x-large;
+}
+
+/* Página Secundária */
+.partidas {
+    align-items: flex-start;
+    text-align: left;
+}
+
+/* Desenvolvimento */
+.desenvolvimento {
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+/* PC */
+@media (min-width: 1000px) {
+    .arabe {
+        font-size: 1px;
+        color: #EEE5D9;
+        text-align: center;
+    }
+
+    .portugues {
+        font-size: 1px;
+        color: #EEE5D9;
+        text-align: center;
+    }
+
+}
+
+/* Tablet */
+@media (min-width: 720px) {
+    main {
+        height: 50vh;
+    }
+
+    .card-img-top- {
+        width: auto;
+        height: 340px;
+        border-radius: 10px 10px 0px 0px;
+    }
+
+}
+
+/* Smartphone Landscape */
+@media (min-width: 540px) {
+
+    /*Banner*/
+    main {
+        height: 100vh;
+    }
+
+    /* Rodapé */
+    .flexFooter {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    #rodape {
+        margin: 10px;
+        align-items: flex-end;
+    }
+
+    .arabe {
+        font-size: 40px;
+        color: #EEE5D9;
+        text-align: center;
+    }
+
+    .portugues {
+        font-size: 20px;
+        color: #EEE5D9;
+        text-align: center;
+    }
+
+    .card-title {
+        font-size: 30px;
+    }
+
+    .card mb-3 {
+        margin-bottom: 100px;
+    }   
+
+}
