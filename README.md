@@ -30,7 +30,7 @@ Aconselhar pessoas que estão curiosas, ou, estão se preparando para sua viagem
 As informações sobre os resultados dos jogos, conforme o passar das partidas e de seus resultados, quem vence e perde, quem avança e quem está fora da competição. 
 
 ## 💼 Briefing
-Clique aqui para acessar **toda a visualização do Briefing** de nosso projeto: [Briefing](https://github.com/JulianaSandes/AC1-3TRI/docs/Briefing.pdf). 👈
+Clique aqui para acessar **toda a visualização do Briefing** de nosso projeto: [Briefing](https://github.com/JulianaSandes/AC1-3TRI/blob/main/docs/Briefing.pdf). 👈
 
 ## 📃 Documentação
 
