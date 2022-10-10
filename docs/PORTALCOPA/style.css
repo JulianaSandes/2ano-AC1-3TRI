@@ -86,7 +86,7 @@ navbar navbar-expand-lg a {
 }
 
 .dohaskyline {
-    background: url(imagens/dohaskyline.jpg);
+    background: url(assets/imagens/dohaskyline.jpg);
     height: 20vh;
     background-size: cover;
     background-position: center;
