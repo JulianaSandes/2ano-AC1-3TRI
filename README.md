@@ -9,7 +9,7 @@
     </a>
 </p>
 
-![Projeto Copa do Mundo](capaprojeto.jpg)
+![Projeto Copa do Mundo](docs/capaprojeto.jpg)
 
 ### 👥 Autores
 - Ana Luiza Cavalcante de Menezes rm:13922 
@@ -19,7 +19,7 @@
 - Tarik Omar Mazloum rm:14661
 - Thiago Baptista da Silva Soares rm:12264
 
-# ⚽ AC1-3TRI - PORTAL COPA 
+# ⚽ AC1-3TRI | PORTAL COPA 
 
 * **Nosso site:** <br>
 O site é do tipo informativo. Ajudaremos com curiosidades sobre o país sede, como, lugares para refeição, hospedagem e diversão. Também mostraremos atletas que participarão da competição. 
@@ -31,11 +31,11 @@ Aconselhar pessoas que estão curiosas, ou, estão se preparando para sua viagem
 As informações sobre os resultados dos jogos, conforme o passar das partidas e de seus resultados, quem vence e perde, quem avança e quem está fora da competição. 
 
 ## 💼 Briefing
-Clique aqui para acessar **toda a visualização do Briefing** de nosso projeto: [Briefing](https://github.com/JulianaSandes/AC1-3TRI/blob/main/Briefing.pdf). 👈
+Clique aqui para acessar **toda a visualização do Briefing** de nosso projeto: [Briefing](https://github.com/JulianaSandes/AC1-3TRI/blob/main/docs/Briefing.pdf). 👈
 
 ## 📃 Documentação
 
 Clique aqui para acessar **toda a visualização da Documentação** de nosso projeto: [Documentação](https://www.canva.com/design/DAFMHKiSZ-Q/0dAA72BJhXmgBNG0WO7_4A/view?utm_content=DAFMHKiSZ-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈 <br>
 (Documentação em andamento, possíveis mudanças podem ocorrer conforme o desenvolvimento do projeto)
 
-![Documentacao Projeto Copa do Mundo](possiveldocumentacao.jpg)
+![Documentacao Projeto Copa do Mundo](docs/possiveldocumentacao.jpg)
