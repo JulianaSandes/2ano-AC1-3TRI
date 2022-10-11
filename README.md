@@ -1,4 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/julianasandes/AC1-3TRI?style=for-the-badge)
+![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fjulianasandes.github.io%2FAC1-3TRI%2F)
 
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
