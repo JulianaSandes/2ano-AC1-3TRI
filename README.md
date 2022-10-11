@@ -36,6 +36,10 @@ Clique aqui para acessar **toda a visualização do Briefing** de nosso projeto:
 ## 🎨 Wireframe
 Clique aqui para acessar **toda a visualização do Wireframe** de nosso projeto: [Wireframe](https://github.com/JulianaSandes/AC1-3TRI/blob/main/docs/Wireframe.pdf). 👈
 
+<p align="center">
+ <img src="https://github.com/JulianaSandes/AC1-3TRI/blob/main/docs/wireframepc.jpg" alt="Wireframe Portal Copa"
+</p>
+
 ## 📃 Documentação
 
 Clique aqui para acessar **toda a visualização da Documentação** de nosso projeto: [Documentação](https://www.canva.com/design/DAFMHKiSZ-Q/0dAA72BJhXmgBNG0WO7_4A/view?utm_content=DAFMHKiSZ-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈 <br>
