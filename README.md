@@ -41,7 +41,7 @@ Clique aqui para acessar **toda a visualização do Wireframe** de nosso projeto
 </p>
 
 ## 📂 Planejamento - Banco de Dados
-Clique aqui para acessar **toda a visualização do Planejamento - Banco de Dados** de nosso projeto: [Planejamento - Banco de Dados](https://github.com/JulianaSandes/AC1-3TRI/blob/main/docs/PlanejamentoBD.pdf). 👈
+Clique aqui para acessar **toda a visualização do Planejamento - Banco de Dados** de nosso projeto: [Planejamento - Banco de Dados](https://github.com/JulianaSandes/AC1-3TRI/blob/main/docs/PlanejamentoDB.pdf). 👈
 
 ## 📃 Documentação
 
