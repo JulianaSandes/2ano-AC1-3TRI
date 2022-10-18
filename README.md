@@ -40,6 +40,9 @@ Clique aqui para acessar **toda a visualização do Wireframe** de nosso projeto
  <img src="https://github.com/JulianaSandes/AC1-3TRI/blob/main/docs/wireframepc.jpg" alt="Wireframe Portal Copa"
 </p>
 
+## 📂 Planejamento - Banco de Dados
+Clique aqui para acessar **toda a visualização do Planejamento - Banco de Dados** de nosso projeto: [Planejamento - Banco de Dados](https://github.com/JulianaSandes/AC1-3TRI/blob/main/docs/PlanejamentoBD.pdf). 👈
+
 ## 📃 Documentação
 
 Clique aqui para acessar **toda a visualização da Documentação** de nosso projeto: [Documentação](https://www.canva.com/design/DAFMHKiSZ-Q/0dAA72BJhXmgBNG0WO7_4A/view?utm_content=DAFMHKiSZ-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈 <br>
