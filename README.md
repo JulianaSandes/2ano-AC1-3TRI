@@ -58,7 +58,7 @@ Clone ou faça o downlod deste repositório:
 
 ```
 # Clone o repositório
-$ git clone https://github.com/JulianaSandes/AC2-3TRI
+$ git clone https://github.com/JulianaSandes/AC1-3TRI
 ```
 
 Instale as dependências do projeto:
