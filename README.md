@@ -49,23 +49,3 @@ Clique aqui para acessar **toda a visualização da Documentação** de nosso pr
 (Documentação em andamento, possíveis mudanças podem ocorrer conforme o desenvolvimento do projeto)
 
 ![Documentacao Projeto Copa do Mundo](docs/possiveldocumentacao.jpg)
-
-_________
-
-## 📦 Instalação
-
-Clone ou faça o downlod deste repositório:
-
-```
-# Clone o repositório
-$ git clone https://github.com/JulianaSandes/AC1-3TRI
-```
-
-Instale as dependências do projeto:
-
-```
-# Instale as dependencias
-$ npm install
-# Rode 
-$ npm start
-```
