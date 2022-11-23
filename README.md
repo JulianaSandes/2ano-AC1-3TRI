@@ -13,10 +13,7 @@
 
 ### 👥 Autores
 - Ana Luiza Cavalcante de Menezes rm:13922 
-- Felipe Chiozzotto rm:12030
 - `Juliana Barbosa Sandes rm:12350` 
-- Kawuan Americo Mizael da Silva rm:14695
-- Tarik Omar Mazloum rm:14661
 - Thiago Baptista da Silva Soares rm:12264
 
 # ⚽ AC1-3TRI | PORTAL COPA 
